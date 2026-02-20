@@ -556,7 +556,7 @@
   font-family: var(--font-subtitulos);
   font-size: 2rem;
   font-weight: 400;
-  color: var(--rose);
+  color: var(--rose-light);
   text-align: center;
   margin-bottom: 0;
 }
